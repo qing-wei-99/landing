@@ -1,0 +1,23 @@
+.avatar {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.avatar.list-inline {
+    display: inline;
+}
+
+.avatar img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.avatar p {
+    font-family: "Satisfy";
+    font-size: 15px;
+    color: #316B83;
+}
